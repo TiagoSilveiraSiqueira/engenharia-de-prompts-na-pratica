@@ -1,0 +1,28 @@
+# Configurações e credenciais locais
+.env
+.env.*
+credentials/
+secrets/
+private/
+credentials.json
+service-account*.json
+token.txt
+tokens.txt
+*.pem
+*.key
+*.p12
+*.pfx
+*.jks
+*.keystore
+
+# Saídas, registros e arquivos de trabalho locais
+local/
+outputs/
+*.log
+*.tmp
+*.bak
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+desktop.ini
